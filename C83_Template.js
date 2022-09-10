@@ -2,19 +2,19 @@ var images = ["https://i.postimg.cc/MKdhy06Z/family.jpg","https://i.postimg.cc/L
 
 var names = ["Family Book","Ranbir Singh - Grandfather", "Diljeet Singh - Father", "Alia Singh - Mother", "Rocky Singh - Brother", "Soni Singh - Sister"];
 
-var age = [60, 40, 60, 30, 25, 20]
+var age = [ 40, 60, 30,25,12,8]
 
-
+/*
 
 We must sort the elements present inside the array "age" to print the age value of the family member for the respective family member.
 
 Write: "age.sort()"
 
-
+*/
 
 age.sort;
 
-
+/*
 
 We must reverse the elements present inside the array "age" to print the age value of the family member for the respective family member.
 After sorting the array "age", all the elements must be arranged in an ascending manner and our family book consists of the exact opposite list i.e. all the first member is Grandfather followed by father and so on ie. in the decending manner.
